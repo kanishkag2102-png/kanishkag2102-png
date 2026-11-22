@@ -13,7 +13,7 @@
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
 ## Featured Projects
-- [CSE103 Lab — LAB 3](https://github.com/kanishkag2102-png/cse103-lab-LAB3)
+- [cse103 Lab — LAB 3](https://github.com/kanishkag2102-png/cse103-lab-LAB3)
   Git workflows, API interaction, and Markdown documentation
 
 ## Currently Working On
