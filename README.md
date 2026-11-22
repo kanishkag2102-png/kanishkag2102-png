@@ -1,4 +1,4 @@
-# Hi, I am Kanishka Gupta!
+# Hi, I am Kanishka Gupta! 
 
 ## About Me
 - B.Tech CSE Student at **K.R. Mangalam University**, Gurugram (Batch 2026–30)
